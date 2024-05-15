@@ -1,0 +1,10 @@
+# Fichiers de documentation
+Document/
+Javadoc/
+
+# Fichiers de configuration IDE
+*.iml
+.idea/
+
+# Autres fichiers non nécessaires
+README.md
